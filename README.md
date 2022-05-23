@@ -17,7 +17,7 @@ are case
 - Library
 
 
-Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add the following to your README.md:
+Use this cheatsheet [car] to add the following to your README.md:
 
 - Another second level heading 
 - Some text under that second level heading that includes an link and strikethrough text.
