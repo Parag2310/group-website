@@ -37,4 +37,4 @@ Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 [car webpage][car]
 [markdown]: https://carpentries-incubator.github.io/jekyll-pages-novice/more_markdown/index.html
 
-https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png
+
