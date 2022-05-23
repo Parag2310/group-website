@@ -29,4 +29,4 @@ Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 1. Acds
 2. Bcd
 
-[![IMAGE ALT TEXT HERE](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+![IMAGE ALT TEXT HERE](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
