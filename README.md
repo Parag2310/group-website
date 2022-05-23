@@ -35,3 +35,5 @@ Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 [car]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [car webpage][car]
+[markdown]: https://carpentries-incubator.github.io/jekyll-pages-novice/more_markdown/index.html
+
