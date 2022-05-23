@@ -10,7 +10,15 @@ Line breaks
 are case
 [Carpentries](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+
 ### Carpentries lesson programs
 - Software 
 - Data
 - Library
+Use this (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)cheatsheet to add the following to your README.md:
+
+Another second level heading
+- Some text under that second level heading that includes an link and strikethrough text.
+- A third level heading
+- A numbered list
+- Bonus: Add this image https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png
