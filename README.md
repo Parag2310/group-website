@@ -8,7 +8,7 @@ Vallina text may contain *italics* and **bold** words.
 This paragraph is sperated 
 Line breaks  
 are case
-[Carpentries](https://carpentries.org)
+[Carpentries](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Carpentries lesson programs
 - Software 
