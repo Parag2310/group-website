@@ -19,8 +19,10 @@ are case
 
 Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add the following to your README.md:
 
-- Another second level heading ## H2
+- Another second level heading 
 - Some text under that second level heading that includes an link and strikethrough text.
 - A third level heading
 - A numbered list
 - Bonus: Add this image https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png
+## H2
+Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add the following to your README.md: ~~Scratch this.~~
