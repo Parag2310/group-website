@@ -19,7 +19,7 @@ are case
 
 Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add the following to your README.md:
 
--Another second level heading
+- Another second level heading
 - Some text under that second level heading that includes an link and strikethrough text.
 - A third level heading
 - A numbered list
