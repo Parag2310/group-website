@@ -28,6 +28,6 @@ Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add the following to your README.md: ~~Scratch this.~~
 1. Acds
 2. Bcd
-3 bibcw
+3. Bibcw
 
 ![IMAGE ALT TEXT HERE](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
