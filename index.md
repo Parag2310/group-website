@@ -1,5 +1,6 @@
 # building websites
 
+## Description
 Add a new section ‘Description’ to file index.md and add some description.
 
 From the GitHub interface, edit file index.md and add a new section called Description to it, with some text about the project.
