@@ -8,5 +8,5 @@ View the changes on the website
 {{ site.Description }}
 More details [About page](about)
 
-Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}}
+Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}})
 
