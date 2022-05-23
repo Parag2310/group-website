@@ -30,7 +30,7 @@ Use this cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 2. Bcd
 3. Bibcw
 
-![IMAGE ALT TEXT HERE](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+![IMAGE ALT TEXT HERE](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png?raw=true)
 
 [car]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
