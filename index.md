@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: home
 title: building websites
 lesson-example: "https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png"
 ---
 
+changed layout from default to home (image).
 ## Description
 Add a new section ‘Description’ to file index.md and add some description.
 
