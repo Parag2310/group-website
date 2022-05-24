@@ -4,6 +4,6 @@ From the GitHub interface, create a new Markdown file called about.md and add so
 > *2019 https://parag2310.github.io/group-website/*
 
 
-
+{% include footer.html %}
 
 Twitter {{site.Twitter}}
