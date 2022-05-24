@@ -1,4 +1,5 @@
 ---
+layout: default
 lesson-example: "https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png"
 ---
 
