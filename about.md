@@ -9,4 +9,6 @@ From the GitHub interface, create a new Markdown file called about.md and add so
 
 {% include footer.html %}
 
-
+---
+layout: default
+---
