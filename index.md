@@ -3,7 +3,6 @@ layout: default
 lesson-example: "https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png"
 ---
 
-{% include navigation.html %}
 
 # building websites
 
@@ -15,6 +14,8 @@ View the changes on the website {{ site.Description }}
 More details [About page](about)
 
 see some [example]({{page.lesson-example}})
+
+{% include navigation.html %}
 
 Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}})
 
