@@ -26,4 +26,6 @@ Navigation bar using html
 footer using html
 {% include footer.html %}
 
+this is the carpenteries [website][carpenteries] using link.md
 
+{% include links.md %}
