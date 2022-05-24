@@ -15,10 +15,13 @@ More details [About page](about)
 
 see some [example]({{page.lesson-example}})
 
+Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}})
+
+Navigation bar using html
+
 {% include navigation.html %}
 
-Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}})
-
+footer using html
 {% include footer.html %}
 
-Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}})
+
