@@ -18,3 +18,4 @@ see some [example]({{page.lesson-example}})
 
 Have any questions about waht we do? [We'd love to hear from you!](mailto:{{site.Email}})
 
+{% include footer.html %}
